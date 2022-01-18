@@ -1,0 +1,24 @@
+{
+  "persons": [
+    {
+      "name": "Faraday",
+      "number": "8675309",
+      "id": 7
+    },
+    {
+      "name": "Blank",
+      "number": "Blank",
+      "id": 9
+    },
+    {
+      "name": "New Name",
+      "number": "934=234=234-",
+      "id": 11
+    },
+    {
+      "name": "John",
+      "number": "",
+      "id": 4
+    }
+  ]
+}
